@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PCB.kicad_pro",
+    "filename": "DT.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -487,10 +487,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "./",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../Downloads/PCB_1.stl",
       "svg": "",
       "vrml": ""
     },
@@ -611,7 +611,7 @@
   },
   "sheets": [
     [
-      "d315d8f8-623f-40ac-bc33-ce7b19401701",
+      "80af1a3a-a569-4d4a-bcdc-87fe7977a6cd",
       "Root"
     ]
   ],

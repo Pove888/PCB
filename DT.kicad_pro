@@ -487,10 +487,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "./",
+      "plot": "C:/Users/Josef/Documents/Dev Shit/DT/GerberTest/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../Downloads/PCB_1.stl",
+      "step": "../../GerberTest/PCB_1.glb",
       "svg": "",
       "vrml": ""
     },
